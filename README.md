@@ -1,6 +1,8 @@
 # CS50-AI
 
-Projects for [CS50's Introduction to Artificial Intelligence with Python](http://cs50.harvard.edu/ai/)
+Projects for [CS50's Introduction to Artificial Intelligence with Python](http://cs50.harvard.edu/ai/).
+
+See [CS50's Academic Honesty rules](https://cs50.harvard.edu/college/2021/fall/syllabus/#academic-honesty).
 
 ## Projects
   - Search:
